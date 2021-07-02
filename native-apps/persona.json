@@ -1,0 +1,9 @@
+{
+  "name": "com.gamelauncher.p4",
+  "description": "Launch Persona",
+  "path": "persona.bat",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://eapooglnclolgnjdlnompebdhlmcpjln/"
+  ]
+}

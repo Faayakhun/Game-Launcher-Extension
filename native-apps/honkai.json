@@ -1,0 +1,9 @@
+{
+  "name": "com.gamelauncher.hi",
+  "description": "Launch Honkai",
+  "path": "honkai.bat",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://eapooglnclolgnjdlnompebdhlmcpjln/"
+  ]
+}

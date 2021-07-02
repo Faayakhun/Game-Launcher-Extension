@@ -1,0 +1,9 @@
+{
+  "name": "com.gamelauncher.ha",
+  "description": "Launch Hades",
+  "path": "hades.bat",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://eapooglnclolgnjdlnompebdhlmcpjln/"
+  ]
+}

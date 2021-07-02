@@ -1,0 +1,9 @@
+{
+  "name": "com.gamelauncher.gi",
+  "description": "Launch Genshin",
+  "path": "genshin.bat",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://eapooglnclolgnjdlnompebdhlmcpjln/"
+  ]
+}
